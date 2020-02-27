@@ -6,5 +6,5 @@
 
 
 ## Supported Projects
-- [SC](https://github.com/MiranDaniel/xyi-sc)
-- [setup](https://github.com/MiranDaniel/xyi-setup)
+- [SC](https://github.com/MiranDaniel/xyi-sc) - Full support, Full development
+- [setup](https://github.com/MiranDaniel/xyi-setup) - Full support, Full development
