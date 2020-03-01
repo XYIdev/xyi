@@ -23,7 +23,7 @@
  
  
 ## tesseract
-### bot
+###### bot
 > [Repository](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development
 
