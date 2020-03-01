@@ -26,4 +26,5 @@
 ## tesseract
 > [Repository](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development
+ ###### All rights reserved
 
