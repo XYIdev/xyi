@@ -6,7 +6,7 @@
 
 
 ## Supported Projects
-- [SC](https://github.com/MiranDaniel/xyi-sc)
+- [SC](#SC)
 - [setup](https://github.com/MiranDaniel/xyi-setup)
 - [Tesseract](https://github.com/MiranDaniel/tesseract)
 
