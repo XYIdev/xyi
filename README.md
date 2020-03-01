@@ -7,8 +7,8 @@
 
 ## Supported Projects
 - [SC](#SC)
-- [setup](https://github.com/MiranDaniel/xyi-setup)
-- [Tesseract](https://github.com/MiranDaniel/tesseract)
+- [setup](#setup)
+- [Tesseract](#tesseract)
 
 ---
 
@@ -17,5 +17,5 @@
  - OpenSource, Full support, Full development
 ## [setup](https://github.com/MiranDaniel/xyi-setup)
  - OpenSource, Full support, Full development
-## [Tesseract](https://github.com/MiranDaniel/tesseract)
+## [tesseract](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development
