@@ -25,3 +25,4 @@
 > [Repository](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development
 
+`<addr>`
