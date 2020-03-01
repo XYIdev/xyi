@@ -13,16 +13,17 @@
 ---
 
 ## Contents
-## SC
+## SC 
 > [Repository](https://github.com/MiranDaniel/xyi-sc)
  - OpenSource, Full support, Full development
  
-## setup
+## setup 
 > [Repository](https://github.com/MiranDaniel/xyi-setup)
  - OpenSource, Full support, Full development
  
+ 
 ## tesseract
+### bot
 > [Repository](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development
 
-`<addr>`
