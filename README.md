@@ -13,9 +13,7 @@
 ---
 
 ## Contents
-
-
-CS
+### [](https://github.com/MiranDaniel/xyi-sc)
 
 
  - OpenSource, Full support, Full development
