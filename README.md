@@ -2,10 +2,10 @@
 
 ## Contents
 
-- [Supported Projects](#Supported-Projects)
+- [UnSupported Projects](#Supported-Projects)
 
 
-## Supported Projects
+## UnSupported Projects
 - [SC](#SC)
 - [setup](#setup)
 - [Tesseract](#tesseract)
